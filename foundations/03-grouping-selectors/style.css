@@ -1,0 +1,16 @@
+/* Grouping Selectors */
+
+.click,
+.click-me {
+    font-size: 50px;
+    font-family: helvetica, "Times New Roman", sans-serif;
+}
+
+.click {
+    background: black;
+    color: white;
+}
+
+.click-me {
+    background: yellow;
+}
